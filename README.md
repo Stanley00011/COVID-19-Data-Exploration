@@ -7,7 +7,7 @@ This project involves the exploration and analysis of COVID-19 data using SQL qu
 ### Data Retrieval Queries
 1. **Query 1:** Retrieves all COVID-19 data entries where continent information is available, sorted by the third and fourth columns.
 2. **Query 2:** Retrieves specific columns (Location, date, total_cases, new_cases, total_deaths, population) from COVID-19 data entries where continent information is available, sorted by location and date.
-3. **Query 3:** Retrieves COVID-19 data entries for a specific location (e.g., Nigeria), calculating the death percentage based on total cases and total deaths.
+3. **Query 3:** Retrieves COVID-19 data entries for a specific location (e.g., Nigeria), calculating the death percentage based on total cases and deaths.
 
 ### Data Analysis Queries
 4. **Query 4:** Calculates the percentage of population infected with COVID-19 for each location, based on total cases and population.
